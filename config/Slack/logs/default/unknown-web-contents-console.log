@@ -1,0 +1,2134 @@
+[01/10/23, 19:32:09:423] info: 
+╔═══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.0.12-arch1-1 on x64      ║
+╚═══════════════════════════════════════════════════════╝ 
+[01/10/23, 19:32:09:424] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[01/10/23, 19:32:09:424] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/10/23, 19:32:09:437] info: 
+╔═══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.0.12-arch1-1 on x64      ║
+╚═══════════════════════════════════════════════════════╝ 
+[01/10/23, 19:32:09:437] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[01/10/23, 19:32:09:437] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/12/23, 18:28:41:831] info: 
+╔═══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.0.12-arch1-1 on x64      ║
+╚═══════════════════════════════════════════════════════╝ 
+[01/12/23, 18:28:41:831] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[01/12/23, 18:28:41:831] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/12/23, 18:28:41:847] info: 
+╔═══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.0.12-arch1-1 on x64      ║
+╚═══════════════════════════════════════════════════════╝ 
+[01/12/23, 18:28:41:847] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[01/12/23, 18:28:41:847] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/12/23, 18:29:17:009] info: 
+╔═══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.0.12-arch1-1 on x64      ║
+╚═══════════════════════════════════════════════════════╝ 
+[01/12/23, 18:29:17:009] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[01/12/23, 18:29:17:009] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/15/23, 21:32:05:823] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.5-arch2-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/15/23, 21:32:05:823] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[01/15/23, 21:32:05:823] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/15/23, 21:32:05:838] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.5-arch2-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/15/23, 21:32:05:838] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[01/15/23, 21:32:05:838] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/15/23, 21:32:33:201] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.5-arch2-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/15/23, 21:32:33:201] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[01/15/23, 21:32:33:202] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/17/23, 20:24:19:293] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.5-arch2-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/17/23, 20:24:19:293] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[01/17/23, 20:24:19:294] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/17/23, 20:24:19:307] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.5-arch2-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/17/23, 20:24:19:307] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[01/17/23, 20:24:19:307] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/17/23, 20:25:37:315] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.5-arch2-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/17/23, 20:25:37:315] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[01/17/23, 20:25:37:315] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/28/23, 00:03:36:070] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/28/23, 00:03:36:070] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[01/28/23, 00:03:36:070] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/28/23, 00:03:36:082] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/28/23, 00:03:36:082] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[01/28/23, 00:03:36:083] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/28/23, 00:04:17:395] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/28/23, 00:04:17:396] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[01/28/23, 00:04:17:396] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/28/23, 00:12:30:822] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/28/23, 00:12:30:822] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[01/28/23, 00:12:30:822] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/28/23, 00:12:30:835] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/28/23, 00:12:30:835] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[01/28/23, 00:12:30:835] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/28/23, 00:12:39:081] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/28/23, 00:12:39:081] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 9
+}
+[01/28/23, 00:12:39:081] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/30/23, 22:08:23:894] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/30/23, 22:08:23:894] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[01/30/23, 22:08:23:894] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/30/23, 22:08:23:907] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/30/23, 22:08:23:907] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[01/30/23, 22:08:23:907] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/30/23, 22:09:06:858] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/30/23, 22:09:06:858] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[01/30/23, 22:09:06:858] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/30/23, 23:46:17:109] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/30/23, 23:46:17:109] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[01/30/23, 23:46:17:109] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/30/23, 23:46:17:121] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/30/23, 23:46:17:121] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[01/30/23, 23:46:17:121] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[01/30/23, 23:47:13:941] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[01/30/23, 23:47:13:941] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 9
+}
+[01/30/23, 23:47:13:941] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/01/23, 00:14:14:707] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/01/23, 00:14:14:707] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 10
+}
+[02/01/23, 00:14:14:707] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/01/23, 00:14:14:720] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/01/23, 00:14:14:720] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 11
+}
+[02/01/23, 00:14:14:721] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/01/23, 23:08:56:901] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/01/23, 23:08:56:901] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[02/01/23, 23:08:56:901] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/01/23, 23:08:56:914] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/01/23, 23:08:56:914] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/01/23, 23:08:56:914] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/01/23, 23:10:01:584] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/01/23, 23:10:01:585] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[02/01/23, 23:10:01:585] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/01/23, 23:20:38:062] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/01/23, 23:20:38:062] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[02/01/23, 23:20:38:063] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/01/23, 23:20:38:076] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/01/23, 23:20:38:077] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[02/01/23, 23:20:38:077] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/01/23, 23:21:04:983] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/01/23, 23:21:04:983] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 9
+}
+[02/01/23, 23:21:04:984] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/02/23, 00:02:37:199] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/02/23, 00:02:37:200] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 10
+}
+[02/02/23, 00:02:37:200] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/02/23, 00:02:37:212] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/02/23, 00:02:37:212] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 11
+}
+[02/02/23, 00:02:37:212] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/02/23, 00:03:53:497] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.8-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/02/23, 00:03:53:497] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 12
+}
+[02/02/23, 00:03:53:497] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/03/23, 23:40:00:762] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/03/23, 23:40:00:762] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[02/03/23, 23:40:00:762] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/03/23, 23:40:00:776] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/03/23, 23:40:00:776] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/03/23, 23:40:00:776] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/07/23, 04:11:54:059] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/07/23, 04:11:54:059] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[02/07/23, 04:11:54:059] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/07/23, 04:11:54:071] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/07/23, 04:11:54:071] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/07/23, 04:11:54:072] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/07/23, 04:14:40:662] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/07/23, 04:14:40:662] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[02/07/23, 04:14:40:663] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/07/23, 04:14:40:675] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/07/23, 04:14:40:675] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[02/07/23, 04:14:40:675] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/07/23, 04:14:49:691] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/07/23, 04:14:49:691] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[02/07/23, 04:14:49:692] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/07/23, 04:14:49:703] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/07/23, 04:14:49:703] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 9
+}
+[02/07/23, 04:14:49:703] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/08/23, 01:18:29:763] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/08/23, 01:18:29:764] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[02/08/23, 01:18:29:764] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/08/23, 01:18:29:777] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/08/23, 01:18:29:777] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/08/23, 01:18:29:777] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/17/23, 22:32:36:053] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/17/23, 22:32:36:053] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[02/17/23, 22:32:36:053] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/17/23, 22:32:36:064] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/17/23, 22:32:36:064] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/17/23, 22:32:36:064] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/20/23, 23:42:09:422] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/20/23, 23:42:09:422] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[02/20/23, 23:42:09:423] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/20/23, 23:42:09:437] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/20/23, 23:42:09:437] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/20/23, 23:42:09:437] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/24/23, 21:55:59:694] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/24/23, 21:55:59:694] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[02/24/23, 21:55:59:694] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/24/23, 21:55:59:708] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/24/23, 21:55:59:708] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/24/23, 21:55:59:708] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/24/23, 20:05:10:862] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/24/23, 20:05:10:862] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[02/24/23, 20:05:10:862] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/24/23, 20:05:10:875] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/24/23, 20:05:10:876] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[02/24/23, 20:05:10:876] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/24/23, 20:50:02:652] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/24/23, 20:50:02:652] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[02/24/23, 20:50:02:652] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/24/23, 20:50:02:662] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/24/23, 20:50:02:663] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 9
+}
+[02/24/23, 20:50:02:663] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/24/23, 21:55:28:857] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/24/23, 21:55:28:857] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 10
+}
+[02/24/23, 21:55:28:857] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/24/23, 21:55:28:870] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/24/23, 21:55:28:870] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 11
+}
+[02/24/23, 21:55:28:870] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/27/23, 22:50:57:725] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/27/23, 22:50:57:725] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[02/27/23, 22:50:57:725] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[02/27/23, 22:50:57:742] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.1.9-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[02/27/23, 22:50:57:743] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[02/27/23, 22:50:57:743] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/01/23, 00:38:44:280] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/01/23, 00:38:44:280] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/01/23, 00:38:44:280] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/01/23, 00:38:44:295] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/01/23, 00:38:44:296] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/01/23, 00:38:44:296] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:13:317] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:13:317] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/02/23, 02:11:13:317] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:13:329] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:13:329] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/02/23, 02:11:13:329] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:15:170] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:15:170] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[03/02/23, 02:11:15:170] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:24:966] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:24:966] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[03/02/23, 02:11:24:967] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:28:936] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:28:936] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[03/02/23, 02:11:28:936] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:34:370] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:34:370] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 9
+}
+[03/02/23, 02:11:34:370] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:52:510] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:52:510] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 10
+}
+[03/02/23, 02:11:52:510] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:52:521] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:52:521] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 11
+}
+[03/02/23, 02:11:52:522] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 02:11:53:641] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 02:11:53:641] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 12
+}
+[03/02/23, 02:11:53:641] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 23:44:17:472] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 23:44:17:472] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/02/23, 23:44:17:473] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 23:44:17:487] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 23:44:17:487] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/02/23, 23:44:17:487] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 23:44:44:681] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 23:44:44:681] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[03/02/23, 23:44:44:681] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 23:54:53:855] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 23:54:53:855] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[03/02/23, 23:54:53:856] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 23:54:53:867] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 23:54:53:867] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[03/02/23, 23:54:53:868] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/02/23, 23:54:55:047] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/02/23, 23:54:55:047] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 9
+}
+[03/02/23, 23:54:55:047] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/07/23, 18:24:34:457] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/07/23, 18:24:34:457] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/07/23, 18:24:34:458] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/07/23, 18:24:34:470] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/07/23, 18:24:34:470] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/07/23, 18:24:34:470] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/10/23, 16:43:54:060] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/10/23, 16:43:54:060] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/10/23, 16:43:54:060] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/10/23, 16:43:54:075] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/10/23, 16:43:54:075] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/10/23, 16:43:54:075] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/10/23, 16:45:13:928] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/10/23, 16:45:13:928] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[03/10/23, 16:45:13:928] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/10/23, 16:45:13:940] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/10/23, 16:45:13:940] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[03/10/23, 16:45:13:940] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/10/23, 16:45:28:225] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/10/23, 16:45:28:225] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[03/10/23, 16:45:28:225] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/11/23, 18:18:07:827] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/11/23, 18:18:07:827] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/11/23, 18:18:07:828] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/11/23, 18:18:07:840] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.1-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/11/23, 18:18:07:840] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/11/23, 18:18:07:840] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/16/23, 18:28:12:216] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.6-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/16/23, 18:28:12:216] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/16/23, 18:28:12:217] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/16/23, 18:28:12:231] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.6-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/16/23, 18:28:12:231] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/16/23, 18:28:12:231] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/17/23, 18:21:00:290] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.6-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/17/23, 18:21:00:290] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/17/23, 18:21:00:291] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/17/23, 18:21:00:304] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.6-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/17/23, 18:21:00:304] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/17/23, 18:21:00:304] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/28/23, 00:15:35:648] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/28/23, 00:15:35:648] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/28/23, 00:15:35:648] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/28/23, 00:15:35:664] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/28/23, 00:15:35:664] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/28/23, 00:15:35:664] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/28/23, 20:45:07:410] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/28/23, 20:45:07:410] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/28/23, 20:45:07:410] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/28/23, 20:45:07:422] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/28/23, 20:45:07:422] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/28/23, 20:45:07:423] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/28/23, 20:45:26:168] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/28/23, 20:45:26:168] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 6
+}
+[03/28/23, 20:45:26:168] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/28/23, 21:07:54:191] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/28/23, 21:07:54:191] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 7
+}
+[03/28/23, 21:07:54:191] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/28/23, 21:07:54:203] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/28/23, 21:07:54:203] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 8
+}
+[03/28/23, 21:07:54:203] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/30/23, 20:26:07:130] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/30/23, 20:26:07:130] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 4
+}
+[03/30/23, 20:26:07:130] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[03/30/23, 20:26:07:145] info: 
+╔══════════════════════════════════════════════════════╗
+║      Slack 4.29.149, linux 6.2.7-arch1-1 on x64      ║
+╚══════════════════════════════════════════════════════╝ 
+[03/30/23, 20:26:07:145] info: Configured logger via 
+{
+  "enableConsoleTransport": true,
+  "identifierOverride": "unknown-web-contents-console",
+  "shouldUseNewBackend": false,
+  "loggerInstanceCount": 5
+}
+[03/30/23, 20:26:07:146] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "timeZone": "Africa/Cairo",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.29.149",
+  "PACKAGE_MANIFEST.commit": "e0f61ad",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}

@@ -1,0 +1,18 @@
+2023/04/08-20:09:29.290 b3d57 Reusing MANIFEST /home/abdo/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2023/04/08-20:09:29.291 b3d57 Recovering log #8179
+2023/04/08-20:09:29.291 b3d57 Reusing old log /home/abdo/.config/Slack/Local Storage/leveldb/008179.log 
+2023/04/08-20:10:29.458 b400f Level-0 table #8183: started
+2023/04/08-20:10:29.462 b400f Level-0 table #8183: 24728 bytes OK
+2023/04/08-20:10:29.466 b400f Delete type=0 #8179
+2023/04/08-20:10:29.466 b400f Compacting 4@0 + 1@1 files
+2023/04/08-20:10:29.469 b400f Generated table #8184@0: 73 keys, 31046 bytes
+2023/04/08-20:10:29.469 b400f Compacted 4@0 + 1@1 files => 31046 bytes
+2023/04/08-20:10:29.472 b400f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/08-20:10:29.472 b400f Delete type=2 #8183
+2023/04/08-20:10:29.472 b400f Delete type=2 #8176
+2023/04/08-20:10:29.472 b400f Delete type=2 #8178
+2023/04/08-20:10:29.472 b400f Delete type=2 #8174
+2023/04/08-20:10:29.472 b400f Delete type=2 #8180
+2023/04/08-20:11:29.466 b400f Level-0 table #8186: started
+2023/04/08-20:11:29.470 b400f Level-0 table #8186: 26071 bytes OK
+2023/04/08-20:11:29.473 b400f Delete type=0 #8182
