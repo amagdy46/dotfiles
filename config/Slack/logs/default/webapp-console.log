@@ -11162,3 +11162,80 @@ Channel is muted
 [04/09/23, 09:09:44:194] info: [PERSIST] (TK8NP7803) Successfully persisted state 
 [04/09/23, 09:10:00:483] info: [DND_V2] (TK8NP7803) Checking for changes in DND status for the following members: U01K1PJ67NE,UKDRW0QF3,U04K4GHEU11,USNUYTAP8,UPN9323AM,UKL612A2H,UKKLJLMJ8,U04JHE124S2 
 [04/09/23, 09:10:00:486] info: [DND_V2] (TK8NP7803) Will check for changes in DND status again in 5 minutes 
+[04/09/23, 09:13:44:302] info: Store: SET_SYSTEM_IDLE idle 
+[04/09/23, 09:13:44:308] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[04/09/23, 09:14:02:621] info: [SLACK-SOCKET] socket.close() has been initiated with statusCode 4998 and description Too long since we received a pong 
+[04/09/23, 09:14:02:911] info: [SLACK-SOCKET] socket.close() has been initiated with statusCode 4998 and description Too long since we received a pong 
+[04/09/23, 09:14:22:773] info: [RTM-EVENT-METRICS] Metrics collection sampling has been reset. 
+[04/09/23, 09:14:24:319] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[04/09/23, 09:14:24:380] warn: TICKLE-MS (TK8NP7803) Sending tickle event failed; will try again the next time we get reconnected 
+[04/09/23, 09:14:24:381] info: [TICKLE-MS] (TK8NP7803) Retrying tickle event that failed earlier 
+[04/09/23, 09:14:24:381] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[04/09/23, 09:14:24:381] warn: TICKLE-MS (TK8NP7803) Tickle retry failed with error: Error: socket_closed 
+[04/09/23, 09:14:24:397] info: Store: SET_SYSTEM_IDLE active 
+[04/09/23, 09:14:24:399] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[04/09/23, 09:14:44:328] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[04/09/23, 09:14:44:378] warn: TICKLE-MS (TK8NP7803) Sending tickle event failed; will try again the next time we get reconnected 
+[04/09/23, 09:14:44:378] info: [TICKLE-MS] (TK8NP7803) Retrying tickle event that failed earlier 
+[04/09/23, 09:14:44:378] warn: SLACK-SOCKET SLACK-SOCKET Tried to send tickle. but our socket is closed; readyState = 2 
+[04/09/23, 09:14:44:379] warn: TICKLE-MS (TK8NP7803) Tickle retry failed with error: Error: socket_closed 
+[04/09/23, 09:15:00:489] info: [DND_V2] (TK8NP7803) Checking for changes in DND status for the following members: U01K1PJ67NE,UKDRW0QF3,U04K4GHEU11,USNUYTAP8,UPN9323AM,UKL612A2H,UKKLJLMJ8,U04JHE124S2 
+[04/09/23, 09:15:00:491] info: [DND_V2] (TK8NP7803) Will check for changes in DND status again in 5 minutes 
+[04/09/23, 09:15:02:675] warn: SOCKET-MANAGER (TK8NP7803) Socket was closed because #1006: generic error 
+[04/09/23, 09:15:02:676] info: [SOCKET-MANAGER] (TK8NP7803) Changing from connected to error 
+[04/09/23, 09:15:02:677] info: [SOCKET-MANAGER] (TK8NP7803) will stay in error state for up to 10000 ms 
+[04/09/23, 09:15:02:678] info: [SOCKET-MANAGER] (TK8NP7803) Changing from error to wait_for_rate_limit 
+[04/09/23, 09:15:02:678] info: [SOCKET-MANAGER] (TK8NP7803) will stay in wait_for_rate_limit state for up to 120000 ms 
+[04/09/23, 09:15:02:678] info: [SOCKET-MANAGER] (TK8NP7803) backing off: will wait for 359 ms 
+[04/09/23, 09:15:02:912] warn: SOCKET-MANAGER (TAMPL6B0E) Socket was closed because #1006: generic error 
+[04/09/23, 09:15:02:913] info: [SOCKET-MANAGER] (TAMPL6B0E) Changing from connected to error 
+[04/09/23, 09:15:02:914] info: [SOCKET-MANAGER] (TAMPL6B0E) will stay in error state for up to 10000 ms 
+[04/09/23, 09:15:02:914] info: [SOCKET-MANAGER] (TAMPL6B0E) Changing from error to wait_for_rate_limit 
+[04/09/23, 09:15:02:914] info: [SOCKET-MANAGER] (TAMPL6B0E) will stay in wait_for_rate_limit state for up to 120000 ms 
+[04/09/23, 09:15:02:914] info: [SOCKET-MANAGER] (TAMPL6B0E) backing off: will wait for 716 ms 
+[04/09/23, 09:15:03:038] info: [SOCKET-MANAGER] (TK8NP7803) Changing from wait_for_rate_limit to connect 
+[04/09/23, 09:15:03:040] info: [SOCKET-MANAGER] (TK8NP7803) will stay in connect state for up to 10000 ms 
+[04/09/23, 09:15:03:040] info: [SOCKET-MANAGER] (TK8NP7803) Changing from connect to checking_fast_reconnect 
+[04/09/23, 09:15:03:040] info: [SOCKET-MANAGER] (TK8NP7803) will stay in checking_fast_reconnect state for up to 60000 ms 
+[04/09/23, 09:15:03:040] info: [SOCKET-MANAGER] (TK8NP7803) Attempting to connect to primary region 
+[04/09/23, 09:15:03:041] info: [SOCKET-MANAGER] (TK8NP7803) Changing from checking_fast_reconnect to fast_reconnecting 
+[04/09/23, 09:15:03:041] info: [SOCKET-MANAGER] (TK8NP7803) will stay in fast_reconnecting state for up to 20000 ms 
+[04/09/23, 09:15:03:631] info: [SOCKET-MANAGER] (TAMPL6B0E) Changing from wait_for_rate_limit to connect 
+[04/09/23, 09:15:03:633] info: [SOCKET-MANAGER] (TAMPL6B0E) will stay in connect state for up to 10000 ms 
+[04/09/23, 09:15:03:633] info: [SOCKET-MANAGER] (TAMPL6B0E) Changing from connect to checking_fast_reconnect 
+[04/09/23, 09:15:03:633] info: [SOCKET-MANAGER] (TAMPL6B0E) will stay in checking_fast_reconnect state for up to 60000 ms 
+[04/09/23, 09:15:03:634] info: [SOCKET-MANAGER] (TAMPL6B0E) Attempting to connect to primary region 
+[04/09/23, 09:15:03:634] info: [SOCKET-MANAGER] (TAMPL6B0E) Changing from checking_fast_reconnect to fast_reconnecting 
+[04/09/23, 09:15:03:634] info: [SOCKET-MANAGER] (TAMPL6B0E) will stay in fast_reconnecting state for up to 20000 ms 
+[04/09/23, 09:15:03:787] info: [SOCKET-MANAGER] (TK8NP7803) Changing from fast_reconnecting to connected 
+[04/09/23, 09:15:03:787] info: [SOCKET-MANAGER] (TK8NP7803) will stay in connected state for up to Infinity ms 
+[04/09/23, 09:15:03:789] info: [SOCKET-MANAGER] (TK8NP7803) Connected to primary region 
+[04/09/23, 09:15:03:791] info: [EVENTLOG] (TK8NP7803) fr=true, lc=false, lt=1681021609.198200 
+[04/09/23, 09:15:03:812] info: [API-Q] (TK8NP7803) noversion-1681024503.812 Flannel users/info called with reason: flannel-call:users/info 
+[04/09/23, 09:15:03:812] info: [API-Q] (TK8NP7803) noversion-1681024503.812 Flannel users/info is ENQUEUED 
+[04/09/23, 09:15:03:812] info: [API-Q] (TK8NP7803) noversion-1681024503.812 Flannel users/info is ACTIVE 
+[04/09/23, 09:15:04:105] info: [RTM] Setting a timeout of 81 ms to process more rtm events 
+[04/09/23, 09:15:04:176] info: [SOCKET-MANAGER] (TAMPL6B0E) Changing from fast_reconnecting to connected 
+[04/09/23, 09:15:04:177] info: [SOCKET-MANAGER] (TAMPL6B0E) will stay in connected state for up to Infinity ms 
+[04/09/23, 09:15:04:177] info: [SOCKET-MANAGER] (TAMPL6B0E) Connected to primary region 
+[04/09/23, 09:15:04:179] info: [EVENTLOG] (TAMPL6B0E) fr=true, lc=false, lt=1681005863.120000 
+[04/09/23, 09:15:04:186] info: [RTM] Waited 81 ms, processing more rtm events now 
+[04/09/23, 09:15:04:328] info: [API-Q] (TAMPL6B0E) noversion-1681024504.328 Flannel users/info called with reason: flannel-call:users/info 
+[04/09/23, 09:15:04:328] info: [API-Q] (TAMPL6B0E) noversion-1681024504.328 Flannel users/info is ENQUEUED 
+[04/09/23, 09:15:04:329] info: [API-Q] (TAMPL6B0E) noversion-1681024504.328 Flannel users/info is ACTIVE 
+[04/09/23, 09:15:04:376] info: [API-Q] (TK8NP7803) noversion-1681024503.812 Flannel users/info is RESOLVED 
+[04/09/23, 09:15:04:627] info: [API-Q] (TAMPL6B0E) noversion-1681024504.328 Flannel users/info is RESOLVED 
+[04/09/23, 09:16:03:834] info: [CHECK-FOR-OLD-IMS] (TK8NP7803) Within limit [external DMs]: 0 
+[04/09/23, 09:16:03:834] info: [CHECK-FOR-OLD-IMS] (TK8NP7803) Within limit [internal DMs]: 11 
+[04/09/23, 09:16:03:834] info: [CHECK-FOR-OLD-IMS] (TK8NP7803) Within limit [app DMs]: 0 
+[04/09/23, 09:16:04:180] info: [CHECK-FOR-OLD-IMS] (TAMPL6B0E) Within limit [external DMs]: 0 
+[04/09/23, 09:16:04:180] info: [CHECK-FOR-OLD-IMS] (TAMPL6B0E) Within limit [internal DMs]: 5 
+[04/09/23, 09:16:04:180] info: [CHECK-FOR-OLD-IMS] (TAMPL6B0E) Within limit [app DMs]: 2 
+[04/09/23, 09:16:04:359] info: Store: SET_SYSTEM_IDLE idle 
+[04/09/23, 09:16:04:362] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[04/09/23, 09:16:54:411] info: Store: SET_SYSTEM_IDLE active 
+[04/09/23, 09:16:54:417] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[04/09/23, 09:17:34:418] info: Store: SET_SYSTEM_IDLE idle 
+[04/09/23, 09:17:34:427] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
+[04/09/23, 09:17:54:447] info: Store: SET_SYSTEM_IDLE active 
+[04/09/23, 09:17:54:451] info: [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["app"] 
