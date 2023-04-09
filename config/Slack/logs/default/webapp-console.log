@@ -11159,3 +11159,6 @@ Channel is muted
 [04/09/23, 09:05:23:125] info: [CHECK-FOR-OLD-IMS] (TAMPL6B0E) Within limit [external DMs]: 0 
 [04/09/23, 09:05:23:125] info: [CHECK-FOR-OLD-IMS] (TAMPL6B0E) Within limit [internal DMs]: 5 
 [04/09/23, 09:05:23:125] info: [CHECK-FOR-OLD-IMS] (TAMPL6B0E) Within limit [app DMs]: 2 
+[04/09/23, 09:09:44:194] info: [PERSIST] (TK8NP7803) Successfully persisted state 
+[04/09/23, 09:10:00:483] info: [DND_V2] (TK8NP7803) Checking for changes in DND status for the following members: U01K1PJ67NE,UKDRW0QF3,U04K4GHEU11,USNUYTAP8,UPN9323AM,UKL612A2H,UKKLJLMJ8,U04JHE124S2 
+[04/09/23, 09:10:00:486] info: [DND_V2] (TK8NP7803) Will check for changes in DND status again in 5 minutes 
