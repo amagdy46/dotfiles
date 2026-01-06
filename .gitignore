@@ -1,0 +1,57 @@
+# Ignore everything by default
+*
+
+# Shell configs - explicitly track
+!.zshrc
+!.zshenv
+!.zimrc
+!.bashrc
+!.bash_profile
+!.profile
+
+# Config directory - track selectively
+!.config/
+.config/*
+!.config/nvim/
+!.config/starship.toml
+!.config/git/
+!.config/alacritty/
+!.config/kitty/
+!.config/ghostty/
+!.config/lazygit/
+!.config/mise/
+!.config/hypr/
+!.config/waybar/
+!.config/mako/
+!.config/btop/
+
+# Neovim - ignore cache/state files
+.config/nvim/.luarc.json
+.config/nvim/lazy-lock.json
+
+# Other dotfiles
+!.yarnrc
+
+# Local binaries - selective
+!.local/
+.local/*
+!.local/bin/
+.local/bin/*
+!.local/bin/switch-audio-to-headphones.sh
+!.local/bin/env
+
+# Dotfiles repo metadata
+!README.md
+!bootstrap.sh
+!.gitignore
+
+# Never track sensitive data
+.ssh/
+.gnupg/
+.aws/credentials
+*.pem
+*.key
+*_rsa
+*_dsa
+*_ecdsa
+*_ed25519
