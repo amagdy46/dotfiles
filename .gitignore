@@ -45,6 +45,20 @@
 !bootstrap.sh
 !.gitignore
 
+# Claude Code skills and documentation
+!.claude/
+.claude/*
+!.claude/README.md
+!.claude/skills/
+!.claude/docs/
+!.claude/templates/
+!.claude/plans/
+
+# Exclude Claude Code internal files
+.claude/.credentials.json
+.claude/debug/
+.claude/plugins/
+
 # Never track sensitive data
 .ssh/
 .gnupg/

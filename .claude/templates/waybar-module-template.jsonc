@@ -1,0 +1,213 @@
+// Waybar Custom Module Template
+// Add to ~/.config/waybar/config.jsonc
+
+{
+  // ========================================================================
+  // CUSTOM MODULE TEMPLATE
+  // ========================================================================
+
+  "custom/module-name": {
+    // Display format
+    // {} is replaced with script output
+    // You can use Pango markup for styling
+    "format": "{}",
+
+    // Command to execute (required for exec modules)
+    "exec": "command-or-script",
+
+    // How often to run the command (in seconds)
+    // Omit for continuous/event-driven modules
+    "interval": 5,
+
+    // Tooltip format (optional)
+    "tooltip": true,
+    "tooltip-format": "{}",
+
+    // Click actions (optional)
+    "on-click": "command-on-left-click",
+    "on-click-right": "command-on-right-click",
+    "on-click-middle": "command-on-middle-click",
+
+    // Scroll actions (optional)
+    "on-scroll-up": "command",
+    "on-scroll-down": "command",
+
+    // CSS class for styling (optional)
+    "class": "custom-class-name",
+
+    // Return type (optional)
+    // Options: "json" for structured data, or omit for plain text
+    "return-type": "",
+
+    // Maximum length before truncation (optional)
+    "max-length": 50,
+
+    // Module position (add to modules-left, modules-center, or modules-right)
+    "position": "left"
+  },
+
+  // ========================================================================
+  // EXAMPLES
+  // ========================================================================
+
+  // Example 1: Simple Text Display
+  "custom/hello": {
+    "format": "👋 {}",
+    "exec": "echo 'Hello'",
+    "interval": "once"  // Run only once
+  },
+
+  // Example 2: System Uptime
+  "custom/uptime": {
+    "format": "⏱️  {}",
+    "exec": "uptime -p | sed 's/up //'",
+    "interval": 60
+  },
+
+  // Example 3: Weather
+  "custom/weather": {
+    "format": "{}°C",
+    "exec": "curl -s 'wttr.in?format=3' | awk '{print $2}'",
+    "interval": 1800,  // Update every 30 minutes
+    "tooltip": true
+  },
+
+  // Example 4: Package Updates (Arch)
+  "custom/updates": {
+    "format": "📦 {} updates",
+    "exec": "checkupdates | wc -l",
+    "interval": 3600,  // Check every hour
+    "on-click": "alacritty -e yay -Syu"
+  },
+
+  // Example 5: Docker Containers
+  "custom/docker": {
+    "format": "🐳 {}",
+    "exec": "docker ps -q | wc -l",
+    "interval": 10,
+    "on-click": "alacritty -e lazydocker",
+    "tooltip-format": "{} containers running"
+  },
+
+  // Example 6: Currently Playing (Spotify)
+  "custom/spotify": {
+    "format": "🎵 {}",
+    "exec": "playerctl metadata --format '{{ artist }} - {{ title }}' 2>/dev/null || echo 'Not playing'",
+    "interval": 2,
+    "on-click": "playerctl play-pause",
+    "max-length": 50
+  },
+
+  // Example 7: JSON Output
+  "custom/json-example": {
+    "format": "{} {percentage}%",
+    "exec": "echo '{\"text\":\"Status\", \"percentage\":75, \"tooltip\":\"More info\", \"class\":\"good\"}'",
+    "return-type": "json",
+    "interval": 5
+  },
+
+  // Example 8: Battery (custom alternative to built-in)
+  "custom/battery-alt": {
+    "format": "{icon} {}%",
+    "format-icons": ["", "", "", "", ""],
+    "exec": "cat /sys/class/power_supply/BAT0/capacity",
+    "interval": 30,
+    "tooltip-format": "Battery: {}%"
+  },
+
+  // ========================================================================
+  // ADDING TO WAYBAR
+  // ========================================================================
+
+  // After creating your module above, add it to one of these arrays:
+
+  "modules-left": [
+    "hyprland/workspaces",
+    "custom/module-name"  // Add here for left side
+  ],
+
+  "modules-center": [
+    "clock",
+    "custom/module-name"  // Add here for center
+  ],
+
+  "modules-right": [
+    "custom/module-name",  // Add here for right side
+    "pulseaudio",
+    "network",
+    "battery"
+  ]
+}
+
+// ========================================================================
+// STYLING IN style.css
+// ========================================================================
+
+/*
+Add styling in ~/.config/waybar/style.css:
+
+#custom-module-name {
+    color: #ffffff;
+    background-color: #1e1e2e;
+    padding: 0 10px;
+    margin: 0 4px;
+}
+
+#custom-module-name.good {
+    color: #a6e3a1;
+}
+
+#custom-module-name.warning {
+    color: #f9e2af;
+}
+
+#custom-module-name.critical {
+    color: #f38ba8;
+}
+*/
+
+// ========================================================================
+// NOTES
+// ========================================================================
+
+// Interval:
+//   - Number in seconds between executions
+//   - "once" for one-time execution
+//   - Omit for continuous/event-driven
+//
+// Return Type JSON Format:
+//   {
+//     "text": "display text",
+//     "tooltip": "tooltip text",
+//     "class": "css-class-name",
+//     "percentage": 75,
+//     "alt": "alternative-text"
+//   }
+//
+// Icon Fonts:
+//   - Nerd Fonts provide many icons
+//   - Use  for emoji-style icons
+//   - Find icons: https://www.nerdfonts.com/cheat-sheet
+//
+// Testing:
+//   1. Add module to config.jsonc
+//   2. Add to modules-left/center/right array
+//   3. Reload Waybar: pkill waybar && waybar &
+//   4. Check logs if not appearing: journalctl -u waybar -f
+//
+// Debugging:
+//   - Test exec command in terminal first
+//   - Check command exit code: echo $?
+//   - Verify JSON output is valid
+//   - Check waybar logs for errors
+//
+// Performance:
+//   - Longer intervals = less CPU usage
+//   - Avoid heavy commands in short intervals
+//   - Cache results when possible
+//
+// After Editing:
+//   1. Save config.jsonc
+//   2. Reload: pkill waybar && waybar &
+//   3. Test functionality
+//   4. Commit: /dotfiles-commit

@@ -47,6 +47,7 @@ bash <(curl -s https://raw.githubusercontent.com/AbdulrahmanMagdy/dotfiles/main/
 - **Dev tools**: Git config, Starship, LazyGit, Mise
 - **Window manager**: Hyprland, Waybar, Mako
 - **Utilities**: btop, custom scripts
+- **Claude Code**: Skills and documentation (~/.claude/)
 
 ## Repository Structure
 
