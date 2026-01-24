@@ -1,0 +1,4 @@
+[data]
+    isLinux = {{ eq .chezmoi.os "linux" }}
+    isMacOS = {{ eq .chezmoi.os "darwin" }}
+    hasOmarchy = {{ and (eq .chezmoi.os "linux") (stat (joinPath .chezmoi.homeDir ".local/share/omarchy") | not | not) }}

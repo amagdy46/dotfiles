@@ -1,0 +1,15 @@
+README.md
+.claude/
+
+{{ if ne .chezmoi.os "linux" }}
+.config/hypr/
+.config/waybar/
+.config/mako/
+.config/alacritty/
+.config/kitty/
+.config/btop/
+{{ end }}
+
+{{ if ne .chezmoi.os "darwin" }}
+.config/aerospace/
+{{ end }}

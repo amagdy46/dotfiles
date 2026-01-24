@@ -1,0 +1,124 @@
+# Aerospace Configuration
+# Tiling window manager for macOS - similar keybindings to Hyprland
+
+# Start Aerospace at login
+start-at-login = true
+
+# Normalizations
+enable-normalization-flatten-containers = true
+enable-normalization-opposite-orientation-for-nested-containers = true
+
+# Mouse follows focus
+on-focus-changed = ['move-mouse window-lazy-center']
+
+# Gaps and visual settings (similar to Hyprland defaults)
+[gaps]
+inner.horizontal = 10
+inner.vertical = 10
+outer.left = 10
+outer.right = 10
+outer.top = 10
+outer.bottom = 10
+
+# Main mode keybindings
+[mode.main.binding]
+
+# Close window (matches SUPER+W in Hyprland)
+alt-w = 'close'
+
+# Focus navigation with arrow keys (matches SUPER+arrow in Hyprland)
+alt-left = 'focus left'
+alt-right = 'focus right'
+alt-up = 'focus up'
+alt-down = 'focus down'
+
+# Also support h/j/k/l for vim users
+alt-h = 'focus left'
+alt-j = 'focus down'
+alt-k = 'focus up'
+alt-l = 'focus right'
+
+# Move windows (matches SUPER+SHIFT+arrow in Hyprland)
+alt-shift-left = 'move left'
+alt-shift-right = 'move right'
+alt-shift-up = 'move up'
+alt-shift-down = 'move down'
+
+alt-shift-h = 'move left'
+alt-shift-j = 'move down'
+alt-shift-k = 'move up'
+alt-shift-l = 'move right'
+
+# Resize windows
+alt-minus = 'resize smart -50'
+alt-equal = 'resize smart +50'
+
+# Toggle split direction (matches SUPER+J in Hyprland)
+alt-slash = 'layout tiles horizontal vertical'
+
+# Toggle floating (matches SUPER+T in Hyprland)
+alt-t = 'layout floating tiling'
+
+# Fullscreen (matches SUPER+F in Hyprland)
+alt-f = 'fullscreen'
+
+# Workspace navigation (matches SUPER+1-9 in Hyprland)
+alt-1 = 'workspace 1'
+alt-2 = 'workspace 2'
+alt-3 = 'workspace 3'
+alt-4 = 'workspace 4'
+alt-5 = 'workspace 5'
+alt-6 = 'workspace 6'
+alt-7 = 'workspace 7'
+alt-8 = 'workspace 8'
+alt-9 = 'workspace 9'
+
+# Move window to workspace (matches SUPER+SHIFT+1-9 in Hyprland)
+alt-shift-1 = 'move-node-to-workspace 1'
+alt-shift-2 = 'move-node-to-workspace 2'
+alt-shift-3 = 'move-node-to-workspace 3'
+alt-shift-4 = 'move-node-to-workspace 4'
+alt-shift-5 = 'move-node-to-workspace 5'
+alt-shift-6 = 'move-node-to-workspace 6'
+alt-shift-7 = 'move-node-to-workspace 7'
+alt-shift-8 = 'move-node-to-workspace 8'
+alt-shift-9 = 'move-node-to-workspace 9'
+
+# Cycle workspaces (matches SUPER+TAB in Hyprland)
+alt-tab = 'workspace-back-and-forth'
+
+# Focus next/prev workspace
+alt-bracketleft = 'workspace prev'
+alt-bracketright = 'workspace next'
+
+# Enter service mode for less common operations
+alt-shift-semicolon = 'mode service'
+
+# Launch applications (similar to Hyprland bindings)
+alt-enter = 'exec-and-forget open -n -a Ghostty'
+
+# Service mode for window management operations
+[mode.service.binding]
+esc = 'mode main'
+r = ['flatten-workspace-tree', 'mode main']    # Reset layout
+backspace = ['close-all-windows-but-current', 'mode main']
+
+# Join/split containers
+s = ['split horizontal', 'mode main']
+v = ['split vertical', 'mode main']
+
+# Balance windows
+b = ['balance-sizes', 'mode main']
+
+# Workspace assignments for common apps
+[[on-window-detected]]
+if.app-id = 'com.apple.Safari'
+run = 'move-node-to-workspace 2'
+
+[[on-window-detected]]
+if.app-id = 'com.apple.mail'
+run = 'move-node-to-workspace 3'
+
+[[on-window-detected]]
+if.app-id = 'com.spotify.client'
+run = 'move-node-to-workspace 5'

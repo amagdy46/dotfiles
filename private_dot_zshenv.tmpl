@@ -1,0 +1,25 @@
+# .zshenv - Sourced for ALL zsh shells (login, interactive, non-interactive)
+# This ensures environment variables are always set
+
+# Custom PATH
+export PATH="$HOME/.local/bin:$PATH"
+
+{{- if .isMacOS }}
+# Homebrew
+eval "$(/opt/homebrew/bin/brew shellenv)"
+{{- end }}
+
+# AWS Configuration
+export AWS_PROFILE=prepit-development-reader
+export AWS_MFA_SERIALNUMBER="arn:aws:iam::136675682713:mfa/amagdy"
+export AWS_REGION=ca-central-1
+
+# Prepit Configuration
+export PREPITS_PATH="$HOME/Documents/Projects/prepit/"
+export PREPIT_SSO=true
+export PATH="$PREPITS_PATH/scripts/bin:$PATH"
+
+# Source additional environment if exists
+if [ -f "$HOME/.local/bin/env" ]; then
+    . "$HOME/.local/bin/env"
+fi
