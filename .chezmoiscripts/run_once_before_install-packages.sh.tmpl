@@ -1,0 +1,72 @@
+#!/bin/bash
+# Install essential packages for dotfiles
+
+set -e
+
+{{- if .isLinux }}
+echo "Installing packages for Arch Linux..."
+
+# Check if yay is available
+if ! command -v yay &> /dev/null; then
+    echo "yay not found. Installing yay..."
+    sudo pacman -S --needed --noconfirm base-devel git
+    git clone https://aur.archlinux.org/yay.git /tmp/yay
+    cd /tmp/yay
+    makepkg -si --noconfirm
+    cd -
+    rm -rf /tmp/yay
+fi
+
+# Install essential packages
+PACKAGES=(
+    zsh
+    starship
+    neovim
+    lazygit
+    direnv
+    mise
+    ghostty
+    git
+    curl
+    wget
+)
+
+yay -S --needed --noconfirm "${PACKAGES[@]}"
+{{- end }}
+
+{{- if .isMacOS }}
+echo "Installing packages for macOS..."
+
+# Check if Homebrew is installed
+if ! command -v brew &> /dev/null; then
+    echo "Installing Homebrew..."
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+fi
+
+# Install essential packages
+brew install \
+    zsh \
+    starship \
+    neovim \
+    lazygit \
+    direnv \
+    mise \
+    ghostty \
+    git \
+    curl \
+    wget
+
+# Install Aerospace (tiling window manager for macOS)
+brew install --cask nikitabobko/tap/aerospace
+
+# Install Sketchybar and borders
+brew tap FelixKratz/formulae
+brew install sketchybar
+brew install borders
+
+# Install SbarLua for Lua-based sketchybar config
+(git clone https://github.com/FelixKratz/SbarLua.git /tmp/SbarLua && cd /tmp/SbarLua && make install && rm -rf /tmp/SbarLua)
+
+echo "Packages installed successfully"
+{{- end }}
