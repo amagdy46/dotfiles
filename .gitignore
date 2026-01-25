@@ -1,71 +1,16 @@
-# Ignore everything by default
-*
+# Chezmoi source directory - track everything except:
 
-# Shell configs - explicitly track
-!.zshrc
-!.zshenv
-!.zimrc
-!.bashrc
-!.bash_profile
-!.profile
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
 
-# Config directory - track selectively
-!.config/
-.config/*
-!.config/nvim/
-!.config/starship.toml
-!.config/git/
-!.config/alacritty/
-!.config/kitty/
-!.config/ghostty/
-!.config/lazygit/
-!.config/mise/
-!.config/hypr/
-!.config/waybar/
-!.config/mako/
-!.config/btop/
+# OS files
+.DS_Store
+Thumbs.db
 
-# Neovim - ignore cache/state files
-.config/nvim/.luarc.json
-.config/nvim/lazy-lock.json
-
-# Other dotfiles
-!.yarnrc
-
-# Local binaries - selective
-!.local/
-.local/*
-!.local/bin/
-.local/bin/*
-!.local/bin/switch-audio-to-headphones.sh
-!.local/bin/env
-
-# Dotfiles repo metadata
-!README.md
-!bootstrap.sh
-!.gitignore
-
-# Claude Code skills and documentation
-!.claude/
-.claude/*
-!.claude/README.md
-!.claude/skills/
-!.claude/docs/
-!.claude/templates/
-!.claude/plans/
-
-# Exclude Claude Code internal files
-.claude/.credentials.json
-.claude/debug/
-.claude/plugins/
-
-# Never track sensitive data
-.ssh/
-.gnupg/
-.aws/credentials
+# Sensitive files (should use chezmoi encryption instead)
 *.pem
 *.key
-*_rsa
-*_dsa
-*_ecdsa
-*_ed25519

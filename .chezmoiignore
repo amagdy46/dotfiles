@@ -5,12 +5,10 @@ README.md
 .config/hypr/
 .config/waybar/
 .config/mako/
-.config/alacritty/
-.config/kitty/
-.config/btop/
 {{ end }}
 
 {{ if ne .chezmoi.os "darwin" }}
 .config/aerospace/
 .config/sketchybar/
+Library/
 {{ end }}

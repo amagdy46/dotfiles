@@ -1,0 +1,15 @@
+[
+  {
+    "label": "Lazygit",
+    "command": "lazygit",
+    "use_new_terminal": true
+  },
+  {
+    "label": "Lazydocker",
+    "command": "lazydocker",
+    "use_new_terminal": true,
+    "env": {
+      "DOCKER_HOST": "unix:///var/folders/b7/y28kk8px4jbbdd1_rrnjd26m0000gn/T/podman/podman-machine-default-api.sock"
+    }
+  }
+]
