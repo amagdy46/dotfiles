@@ -5,6 +5,7 @@ README.md
 .config/hypr/
 .config/waybar/
 .config/mako/
+.config/Cursor/
 {{ end }}
 
 {{ if ne .chezmoi.os "darwin" }}
