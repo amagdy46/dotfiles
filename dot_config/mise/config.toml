@@ -1,2 +1,2 @@
 [tools]
-node = "25.2.1"
+node = "20"  # LTS - mise will use latest 20.x
