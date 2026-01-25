@@ -27,6 +27,7 @@ zmodule utility
 # Custom modules
 zmodule https://github.com/agkozak/zsh-z
 zmodule jeffreytse/zsh-vi-mode
+zmodule djui/alias-tips
 
 #
 # Prompt
