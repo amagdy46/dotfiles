@@ -178,6 +178,13 @@ alias brewdeps='brew deps --tree --installed'
 # Interactive shell configurations
 # (Environment variables are now in ~/.zshenv)
 
+# Custom scripts path
+{{- if .isMacOS }}
+export PATH="$HOME/Documents/prepit/scripts/bin:$PATH"
+{{- else }}
+export PATH="$HOME/projects/prepit/scripts/bin:$PATH"
+{{- end }}
+
 # direnv hook for directory-specific environments
 eval "$(direnv hook zsh)"
 
