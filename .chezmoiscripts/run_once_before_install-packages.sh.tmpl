@@ -60,5 +60,13 @@ brew install \
 # Install Aerospace (tiling window manager for macOS)
 brew install --cask nikitabobko/tap/aerospace
 
+# Install Sketchybar and borders
+brew tap FelixKratz/formulae
+brew install sketchybar
+brew install borders
+
+# Install SbarLua for Lua-based sketchybar config
+(git clone https://github.com/FelixKratz/SbarLua.git /tmp/SbarLua && cd /tmp/SbarLua && make install && rm -rf /tmp/SbarLua)
+
 echo "Packages installed successfully"
 {{- end }}
